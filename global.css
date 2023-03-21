@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inder: Inder;
+    --font-iceland: Iceland;
+  
+    /* font sizes */
+    --font-size-xl: 20px;
+    --font-size-13xl: 32px;
+  
+    /* Colors */
+    --color-white: #fff;
+    --color-gray: #1e1e1e;
+  
+    /* border radiuses */
+    --br-4xl: 23px;
+  }
+  
